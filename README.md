@@ -1,6 +1,6 @@
 # fleaflicker-import
 
-This is a command lin script that can be used to import your player rankings to Fleaflicker
+This is a command line script that can be used to import your player rankings to Fleaflicker
 
 # Dependencies
 
