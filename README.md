@@ -33,3 +33,5 @@ Once you have all the information, run the script with a command like this:
 `python main.py 156387 1170258 myemail@example.com "mypassword" rankings.txt`
 
 If your password contains special characters, you'll have to enclose it in quotation marks as shown above.
+
+After running the script, you are encouraged to go to Fleaflicker and check that your rankings were successfully imported.
